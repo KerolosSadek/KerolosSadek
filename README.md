@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerolos Sadek</h1>
 <h3 align="center">Frontend Developer From Egypt</h3>
 
-- 🌱 I’m currently learning **Vue3, Node, Nginx, Tailwind CSS, Nuxt**
+- 🌱 I’m currently learning **PHP and Laravel Framework**
 
 - 💬 Ask me about **Html5 , CSS3 , Scss , Bootstratp4/5, Tailwindcss , JavaScript , JQuery ,Vue3 , Nuxt.js **
 
